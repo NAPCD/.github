@@ -3,7 +3,31 @@
 O Núcleo de Avaliação de Políticas Públicas e Ciências de Dados do Recife (NAPCD) tem como missão contribuir para a formulação e avaliação de políticas públicas, gerar e compartilhar conhecimento e assessorar a Prefeitura do Recife nas decisões estratégicas a partir de evidências.
 <br><br>
 A equipe do NAPCD é qualificada em levantar evidências em políticas públicas a partir de ciência de dados, literatura acadêmica e metodologias avançadas de avaliação. A utilização de evidências é fundamental para melhorar a efetividade das políticas públicas, investir melhor os recursos públicos, conseguir financiamentos e prêmios, gerar conhecimento e promover a prestação de contas e transparência.
+<br>
+
+### Equipe
+<img align="left" alt="marcela" height="150" style="border-radius:50px;" src="/img/marcela.jpg">
+<br>
+<b>Marcela Pereira</b>
 <br><br>
+marcela.fonseca@recife.pe.gov.br
+<br><br><br><br>
+
+<img align="left" alt="mayres" height="150" style="border-radius:50px;" src="/img/mayres.jpg">
+<br>
+<b>Mayres Pequeno</b>
+<br><br>
+mayres.silva@recife.pe.gov.br
+<br><br><br><br>
+
+<img align="left" alt="giuliana" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
+<br>
+<b>Giuliana Ramos</b>
+<br><br>
+giuliana.ramos@recife.pe.gov.br
+<br><br><br><br>
+
+
 ### Atuação
 
 O NAPCD atua em diversas áreas, tais como:
