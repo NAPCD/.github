@@ -8,42 +8,49 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
 <br><br>
 
 ## Equipe
-<img align="left" alt="marcela" height="150" style="border-radius:50px;" src="/img/marcela.jpg">
-<br>
-<b>Marcela Pereira</b>
-<br>
-<i>Coordenadora Técnica</i>
-<br><br>
-marcela.fonseca@recife.pe.gov.br
-<br><br><br><br><br>
 
-<img align="left" alt="mayres" height="150" style="border-radius:50px;" src="/img/mayres.jpg">
-<br>
-<b>Mayres Pequeno</b>
-<br>
-<i>Gerente Geral</i>
-<br><br>
-mayres.silva@recife.pe.gov.br
-<br><br><br><br><br>
+<div align="left">
+  <img align="left" alt="marcela" height="150" style="border-radius:50px;" src="/img/marcela.jpg">
+  <br>
+  <b>Marcela Pereira</b>
+  <br>
+  <i>Coordenadora Técnica</i>
+  <br><br>
+  marcela.fonseca@recife.pe.gov.br
+  </div>
 
-<img align="left" alt="giuliana" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
-<br>
-<b>Giuliana Ramos</b>
-<br>
-<i>Assessora Técnica</i>
-<br><br>
-giuliana.ramos@recife.pe.gov.br
-<br><br><br><br><br>
 
-<img align="left" alt="luiza" height="150" style="border-radius:50px;" src="/img/luiza.jpg">
-<br>
-<b>Luiza Lima</b>
-<br>
-<i>Assessora Técnica</i>
-<br><br>
-luiza.9718@gmail.com
-<br><br><br><br><br>
+<div align="right">
+  <img align="right" alt="mayres" height="150" style="border-radius:50px;" src="/img/mayres.jpg">
+  <br>
+  <b>Mayres Pequeno</b>
+  <br>
+  <i>Gerente Geral</i>
+  <br><br>
+  mayres.silva@recife.pe.gov.br
+  <br><br><br><br><br>
+  </div>
 
+<div align="left">
+  <img align="left" alt="giuliana" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
+  <br>
+  <b>Giuliana Ramos</b>
+  <br>
+  <i>Assessora Técnica</i>
+  <br><br>
+  giuliana.ramos@recife.pe.gov.br
+  </div>
+<div align="right">
+  <img align="right" alt="luiza" height="150" style="border-radius:50px;" src="/img/luiza.jpg">
+  <br>
+  <b>Luiza Lima</b>
+  <br>
+  <i>Assessora Técnica</i>
+  <br><br>
+  luiza.9718@gmail.com
+  </div>
+  
+<br><br>
 ## Linha do tempo
 <img align="center" alt="linha do tempo" style="border-radius:50px;" src="/img/linha_do_tempo_horizontal.png">
 
