@@ -25,7 +25,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br>
   <b>Mayres Pequeno</b>
   <br>
-  <i>Gerente Geral</i>
+  <i>Gerente</i>
   <br><br>
   mayres.silva@recife.pe.gov.br
   <br><br><br><br><br>
