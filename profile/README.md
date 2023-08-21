@@ -18,7 +18,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   mayres.silva@recife.pe.gov.br
   <br><br><br><br><br>
   </div>
-<br>
+<br><br>
 
 <div align="left">
   <img align="left" alt="marcela" height="150" style="border-radius:50px;" src="/img/marcela.jpg">
@@ -29,7 +29,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   marcela.fonseca@recife.pe.gov.br
   </div>
-<br>
+<br><br>
 
 <div align="right">
   <img align="right" alt="alexia" height="150" style="border-radius:50px;" src="/img/Alexia.jpeg">
@@ -40,7 +40,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   alexsandra.cavalcanti@recife.pe.gov.br 
   </div>
-<br> 
+<br><br>
 
 <div align="left">
   <img align="left" alt="giuliana" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
@@ -51,7 +51,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   giuliana.ramos@recife.pe.gov.br
   </div>
-<br>
+<br><br>
 
   <div align="right">
   <img align="right" alt="elaine" height="150" style="border-radius:50px;" src="/img/Elaine.jpg">
@@ -62,7 +62,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   elaine.veras@recife.pe.gov.br 
   </div>
-<br>
+
   
 <br><br>
 ## Linha do tempo
