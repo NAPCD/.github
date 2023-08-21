@@ -51,6 +51,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   giuliana.ramos@recife.pe.gov.br
   </div>
+<br>
 
   <div align="right">
   <img align="right" alt="elaine" height="150" style="border-radius:50px;" src="/img/Elaine.jpg">
@@ -61,7 +62,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br><br>
   elaine.veras@recife.pe.gov.br 
   </div>
-
+<br>
   
 <br><br>
 ## Linha do tempo
