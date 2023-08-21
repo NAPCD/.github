@@ -18,7 +18,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   mayres.silva@recife.pe.gov.br
   <br><br><br><br><br>
   </div>
-<br><br>
+<br>
 
 <div align="left">
   <img align="left" alt="marcela" height="150" style="border-radius:50px;" src="/img/marcela.jpg">
