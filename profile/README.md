@@ -53,7 +53,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   </div>
 
   <div align="right">
-  <img align="right" alt="elaine" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
+  <img align="right" alt="elaine" height="150" style="border-radius:50px;" src="/img/Elaine.jpg">
 <br>  <br>
   <b>Elaine Veras</b>
   <br>
