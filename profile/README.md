@@ -25,7 +25,7 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
   <br>
   <b>Marcela Pereira</b>
   <br>
-  <i>Coordenadora Técnica</i>
+  <i>Coordenadora</i>
   <br><br>
   marcela.fonseca@recife.pe.gov.br
   </div>
@@ -34,24 +34,34 @@ A equipe do NAPCD é qualificada em levantar evidências em políticas públicas
 <div align="right">
   <img align="right" alt="alexia" height="150" style="border-radius:50px;" src="/img/Alexia.jpeg">
   <br>
-  <b>Luiza Lima</b>
+  <b>Alexsandra Cavalcanti</b>
   <br>
-  <i>Assessora Técnica</i>
+  <i>Analista</i>
   <br><br>
-  luiza.9718@gmail.com
+  alexsandra.cavalcanti@recife.pe.gov.br 
   </div>
 <br> 
 
 <div align="left">
   <img align="left" alt="giuliana" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
-  <br>
+<br>  <br>
   <b>Giuliana Ramos</b>
   <br>
   <i>Assessora Técnica</i>
   <br><br>
   giuliana.ramos@recife.pe.gov.br
   </div>
-<br>
+
+  <div align="right">
+  <img align="right" alt="elaine" height="150" style="border-radius:50px;" src="/img/giuliana.jpeg">
+<br>  <br>
+  <b>Elaine Veras</b>
+  <br>
+  <i>Assessora Técnica</i>
+  <br><br>
+  elaine.veras@recife.pe.gov.br 
+  </div>
+
   
 <br><br>
 ## Linha do tempo
